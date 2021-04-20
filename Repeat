@@ -1,0 +1,10 @@
+main()
+{
+    i = 1;  //Inicializando una variable con un valor//
+    x = i;
+    REPEAT
+    {
+        printf (x)
+        x++;
+    } until (x = 101)
+}    
